@@ -1,5 +1,6 @@
 ## Hi there 👋
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nokskiy&theme=aura_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nokskiy&theme=aura_dark) 
 <!--
 **Nokskiy/Nokskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
