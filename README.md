@@ -3,12 +3,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nokskiy&theme=tokyonight) 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokskiy&show_icons=true&theme=radical)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
  
 <!--
 **Nokskiy/Nokskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
