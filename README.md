@@ -17,6 +17,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github.com/AvalonixPlayer/Avalonix/blob/main/Assets/avalonix-logo.ico" height="40" alt="csharp logo"/>
+</div>
+
+###
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nokskiy/Nokskiy/refs/heads/output/github-contribution-grid-snake-dark.svg" />
